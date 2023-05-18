@@ -3,7 +3,7 @@ This repository provides the demo and the pre-trained models for the paper: [Mul
 Languages Using Transliteration](link-once-published).
 
 ## Dataset
-Our study became feasible thanks to a large-scale and open-source speech corpus called [KazakhTTS2] (https://github.com/IS2AI/Kazakh_TTS). 
+Our study became feasible thanks to a large-scale and open-source speech corpus called [KazakhTTS2](https://github.com/IS2AI/Kazakh_TTS). 
 
 ## Pretrained models
 Unzip the both pre-trained vocoder and acoustic model in the current directory.
