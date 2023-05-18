@@ -1,12 +1,12 @@
 # TurkicTTS
-This repository provides the demo and the pre-trained models for the paper: [Multilingual Text-to-Speech Synthesis for Turkic
+This repository provides the demo and the pre-trained models for the paper [Multilingual Text-to-Speech Synthesis for Turkic
 Languages Using Transliteration](link-once-published).
 
 ## Dataset
 Our study became feasible thanks to a large-scale and open-source speech corpus called [KazakhTTS2](https://github.com/IS2AI/Kazakh_TTS). 
 
 ## Pretrained models
-Unzip the both pre-trained vocoder and acoustic model in the current directory.
+Unzip both the pre-trained vocoder and the acoustic model in the current directory.
 
 ### vocoder: parallelwavegan_male2_checkpoint
 - https://issai.nu.edu.kz/wp-content/uploads/2022/03/parallelwavegan_male2_checkpoint.zip
