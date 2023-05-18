@@ -51,7 +51,7 @@ text2speech = Text2Speech(
 text2speech.spc2wav = None  # Disable griffin-lim
 
 text = "merhaba"
-### available options are: azerbaijani, bashkir, kazakh, kyrgyz, sakha, turkish, turkmen, tatar, uyghur, uzbek
+### available options are azerbaijani, bashkir, kazakh, kyrgyz, sakha, turkish, turkmen, tatar, uyghur, uzbek
 lang = "turkish"
 
 text = normalization(text, lang)
