@@ -1,5 +1,9 @@
 # TurkicTTS
-This repository provides the demo and the pre-trained models for the paper: [Multilingual text-to-speech synthesis for Turkic language using zero-shot cross-lingual transfer learning](link-once-published).
+This repository provides the demo and the pre-trained models for the paper: [Multilingual Text-to-Speech Synthesis for Turkic
+Languages Using Transliteration](link-once-published).
+
+## Dataset
+Our study became feasible thanks to a large-scale and open-source speech corpus called [KazakhTTS2] (https://github.com/IS2AI/Kazakh_TTS). 
 
 ## Pretrained models
 Unzip the both pre-trained vocoder and acoustic model in the current directory.
@@ -47,7 +51,7 @@ text2speech = Text2Speech(
 text2speech.spc2wav = None  # Disable griffin-lim
 
 text = "merhaba"
-### available options are: kazakh, turkish, azerbaijani, kyrgyz, uzbek, turkmen, tatar, bashkir, sakha, uyghur
+### available options are: azerbaijani, bashkir, kazakh, kyrgyz, sakha, turkish, turkmen, tatar, uyghur, uzbek
 lang = "turkish"
 
 text = normalization(text, lang)
