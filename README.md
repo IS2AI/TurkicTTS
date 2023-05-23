@@ -3,7 +3,13 @@ This repository provides the demo and the pre-trained models for the paper [Mult
 Languages Using Transliteration](link-once-published).
 
 ## Dataset
-Our study became feasible thanks to a large-scale and open-source speech corpus called [KazakhTTS2](https://github.com/IS2AI/Kazakh_TTS). 
+Our study became feasible thanks to a large-scale and open-source speech corpus called [KazakhTTS2](https://github.com/IS2AI/Kazakh_TTS).
+
+## Surveys
+Below are the links to the ten questionnaires used in the study to collect subjective evaluations. These questionnaires were distributed on popular social media platforms operating in the Turkic languages. If you are interested, feel free to check them out. Your participation and input are greatly appreciated in helping us gather valuable data for our research. Your insights will contribute to a deeper understanding of the subject matter under investigation. Thank you for your time and consideration.
+
+[Azerbaijani](https://nukz.qualtrics.com/jfe/form/SV_bNu5RvcsYMKkU8m) | [Bashkir](https://nukz.qualtrics.com/jfe/form/SV_cvl3H1U8EbFM4Tk) | [Kazakh](https://nukz.qualtrics.com/jfe/form/SV_3WelDTOVyKK5iom) | [Kyrgyz](https://nukz.qualtrics.com/jfe/form/SV_cAT00TOsCNKsSZE) | [Sakha](https://nukz.qualtrics.com/jfe/form/SV_2awH2YEoL5V7biC) | [Tatar](https://nukz.qualtrics.com/jfe/form/SV_0dEAXvcHxAiEYxo) | [Turkish](https://nukz.qualtrics.com/jfe/form/SV_cItR7tzYRRjlkYC) | [Turkmen](https://nukz.qualtrics.com/jfe/form/SV_cVgQk4lgS17HBgW) | [Uyghur](https://nukz.qualtrics.com/jfe/form/SV_ezZO1jNowvrAdds) | [Uzbek](https://nukz.qualtrics.com/jfe/form/SV_01BJgR96UMZ3fOm)
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 
 ## Pretrained models
 Unzip both the pre-trained vocoder and the acoustic model in the current directory.
