@@ -1,5 +1,23 @@
 <h1 align="center">TurkicTTS <br> ⌨️ 🗣 </h1>
 
+<p align="center">
+  <a href="https://github.com/IS2AI/TurkicTTS/stargazers">
+    <img src="https://img.shields.io/github/stars/IS2AI/TurkicTTS.svg?colorA=orange&colorB=orange&logo=github"
+         alt="GitHub stars">
+  </a>
+  <a href="https://github.com/IS2AI/TurkicTTS/issues">
+        <img src="https://img.shields.io/github/issues/IS2AI/TurkicTTS.svg"
+             alt="GitHub issues">
+  </a>
+<!--   <a href="https://arxiv.org/abs/2303.00747">
+        <img src="http://img.shields.io/badge/Arxiv-2303.00747-B31B1B.svg"
+             alt="ArXiv paper">
+  </a> -->
+  <a href="https://twitter.com/intent/tweet?text=&url=https%3A%2F%2Fgithub.com%2Fm-bain%2FwhisperX">
+  <img src="https://img.shields.io/twitter/url/https/github.com/m-bain/whisperX.svg?style=social" alt="Twitter">
+  </a>      
+</p>
+
 <p align = "center">This repository provides a demo and a pre-trained model for the paper <br><b>Multilingual Text-to-Speech Synthesis for Turkic Languages Using Transliteration</b></p>
 
 ## Languages 💬
