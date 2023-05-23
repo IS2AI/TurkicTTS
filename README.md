@@ -152,9 +152,9 @@ https://github.com/IS2AI/TurkicTTS/assets/6375187/57a70217-c618-4caf-8038-0d5668
 
 **Turkish**
 
-    Türkiye'nin adı, ''Türk'' etnik kimliği adından gelir.
+    Türk dünyası, tüm Türk halkları kapsayan bir kavramdır.
 
-https://github.com/IS2AI/TurkicTTS/assets/6375187/fbceeace-4ae4-45a9-8376-a7fb477ca0ca
+https://github.com/IS2AI/TurkicTTS/assets/6375187/527430a1-f8f3-472c-8b32-3540e4dc5d96
 
 ---
 
