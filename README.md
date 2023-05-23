@@ -1,7 +1,5 @@
 <h1 align="center">TurkicTTS <br> ⌨️ 🗣 </h1>
 
-https://github.com/IS2AI/TurkicTTS/blob/master/samples/az_01.mov
-
 <p align="center">
   <a href="https://github.com/IS2AI/TurkicTTS/stargazers">
     <img src="https://img.shields.io/github/stars/IS2AI/TurkicTTS.svg?colorA=orange&colorB=orange&logo=github"
@@ -103,4 +101,65 @@ with torch.no_grad():
     wav = vocoder.inference(c_mel)
 write("result.wav", fs, wav.view(-1).cpu().numpy())
 ```
- 
+## Synthesised samples 🔈
+**Azerbaijani**
+
+    Azərbaycan Xəzər dənizi hövzəsinin qərbində yerləşir.
+
+https://github.com/IS2AI/TurkicTTS/assets/6375187/8ead9d0f-459b-4d1f-8fa1-4836f76cdd0a
+
+**Bashkir**
+
+    Башҡортостан Республикаһы шарттарында ауыл хужалығы етерлек хеҙмәт ресурстарына нигеҙләнә.
+    
+https://github.com/IS2AI/TurkicTTS/assets/6375187/a86f8638-d3e9-47fb-974f-e2b2a820fd3d
+
+**Kazakh**
+
+    Қазақстан — Шығыс Еуропа мен Орталық Азияда орналасқан мемлекет.
+
+https://github.com/IS2AI/TurkicTTS/assets/6375187/847121e5-a2ef-45db-9418-f62e3ad0bfb0
+
+**Kyrgyz**
+
+    Кыргыз Республикасы — Борбордук Азияда жайгашкан мамлекет.
+
+https://github.com/IS2AI/TurkicTTS/assets/6375187/cf6f4c78-d87d-4e58-a556-059e26f2e901
+
+**Sakha**
+
+    Саха Өрөспүүбүлүкэтэ Сибиир хотугулуу-илин өттүгэр сытар.
+
+https://github.com/IS2AI/TurkicTTS/assets/6375187/4bb36e22-768e-41fd-a9c5-24ff6d35cbd2
+
+**Turkmen**
+
+    Türkmenistan merkezi Aziýada bir döwletdir.
+
+https://github.com/IS2AI/TurkicTTS/assets/6375187/57a70217-c618-4caf-8038-0d5668e840f8
+
+**Turkish**
+
+    Türkiye'nin adı, ''Türk'' etnik kimliği adından gelir.
+
+https://github.com/IS2AI/TurkicTTS/assets/6375187/fbceeace-4ae4-45a9-8376-a7fb477ca0ca
+
+**Tatar**
+
+    Татарстан территориясе — урманлы җирдә яткан тигезлек.
+
+https://github.com/IS2AI/TurkicTTS/assets/6375187/331fa695-bc85-4afb-bccd-43ad22c9cc33
+
+**Uyghur**
+
+    Arabic: ئۇيغۇر خەلقى تۈركىي مىللەتلىرىنىڭ ئايرىلماس بىر قىسمى ھەم مۇھىم بىر تەركىبىي قىسمى.
+    Cyrillic: Уйғур хәлқи түркий милләтлириниң айрилмас бир қисми һәм муһим бир тәркибий қисми.
+    Latin: Uyghur xelqi türkiy milletlirining ayrilmas bir qismi hem muhim bir terkibiy qismi.
+
+https://github.com/IS2AI/TurkicTTS/assets/6375187/6695091e-4fdd-4ed4-b785-289e3425326f
+
+**Uzbek**
+
+    Oʻzbekiston — Markaziy Osiyoning markaziy qismida joylashgan mamlakat.
+
+https://github.com/IS2AI/TurkicTTS/assets/6375187/b5674d03-f977-4975-9d32-a9036c791b2d
