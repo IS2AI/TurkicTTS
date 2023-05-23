@@ -1,12 +1,16 @@
 <h1 align="center">TurkicTTS <br> ⌨️ 🗣 </h1>
 
-This repository provides the demo and the pre-trained models for the paper [Multilingual Text-to-Speech Synthesis for Turkic Languages Using Transliteration](link-once-published).
+<p align = "center">This repository provides a demo and a pre-trained model for the paper <br><b>Multilingual Text-to-Speech Synthesis for Turkic Languages Using Transliteration</b></p>
+
+## Languages 💬
+<p align = "justify">The model supports ten <a href="https://en.wikipedia.org/wiki/Turkic_languages">Turkic languages</a>, including <a href="https://en.wikipedia.org/wiki/Azerbaijani_language">Azerbaijani</a>, <a href="https://en.wikipedia.org/wiki/Bashkir_language">Bashkir</a>, <a href="https://en.wikipedia.org/wiki/Kazakh_language">Kazakh</a>, <a href="https://en.wikipedia.org/wiki/Kyrgyz_language">Kyrgyz</a>, <a href="https://en.wikipedia.org/wiki/Yakut_language">Sakha</a>, <a href="https://en.wikipedia.org/wiki/Tatar_language">Tatar</a>, <a href="https://en.wikipedia.org/wiki/Turkish_language">Turkish</a>, <a href="https://en.wikipedia.org/wiki/Turkmen_language">Turkmen</a>, <a href="https://en.wikipedia.org/wiki/Uyghur_language">Uyghur</a>, and <a href="https://en.wikipedia.org/wiki/Uzbek_language">Uzbek</a>. Spoken across a wide geographical area stretching from the Balkans through Central Asia to northeastern Siberia, these languages share a wide range of common 🫂 linguistic features, such as vowel harmony, extensive agglutination, subject-object-verb order, and the absence of grammatical gender and articles.</p>
+
 
 ## Dataset 🗃️
 Our study became feasible thanks to a large-scale and open-source speech corpus called 🇰🇿 [KazakhTTS2](https://github.com/IS2AI/Kazakh_TTS).
 
-## Surveys 🎧 → 😡☹️😐🙂😀 → ⌨️
-Below are the links to the ten questionnaires used in the study to collect subjective evaluations. These questionnaires were distributed on popular social media platforms operating in the Turkic languages. If you are interested, feel free to check them out. Your participation and input are greatly appreciated in helping us gather valuable data for our research. Your insights will contribute to a deeper understanding of the subject matter under investigation. 
+## Surveys 🎧 → 😡☹️😐🙂😀 → ✅ → ⌨️
+<p align = "justify">Below are the links to the ten questionnaires used in the study to collect subjective evaluations. These questionnaires were distributed on popular social media platforms operating in the Turkic languages. If you are interested, feel free to check them out. Your participation and input are greatly appreciated in helping us gather valuable data for our research. Your insights will contribute to a deeper understanding of the subject matter under investigation.</p> 
 
 Each questionnaire consists of 20 short questions and should take you about 5 minutes. No background knowledge is required.
 You will be asked to
