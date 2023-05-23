@@ -9,13 +9,8 @@
         <img src="https://img.shields.io/github/issues/IS2AI/TurkicTTS.svg"
              alt="GitHub issues">
   </a>
-<!--   <a href="https://arxiv.org/abs/2303.00747">
-        <img src="http://img.shields.io/badge/Arxiv-2303.00747-B31B1B.svg"
-             alt="ArXiv paper">
-  </a> -->
-  <a href="https://twitter.com/intent/tweet?text=&url=https%3A%2F%2Fgithub.com%2Fm-bain%2FwhisperX">
-  <img src="https://img.shields.io/twitter/url/https/github.com/m-bain/whisperX.svg?style=social" alt="Twitter">
-  </a>      
+  <br>
+  <a href="https://issai.nu.edu.kz"><img src="https://img.shields.io/static/v1?label=ISSAI&amp;message=official site&amp;color=blue&amp" alt="ISSAI Official Website"></a> 
 </p>
 
 <p align = "center">This repository provides a demo and a pre-trained model for the paper <br><b>Multilingual Text-to-Speech Synthesis for Turkic Languages Using Transliteration</b></p>
