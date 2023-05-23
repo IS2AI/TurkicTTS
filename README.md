@@ -187,3 +187,15 @@ https://github.com/IS2AI/TurkicTTS/assets/6375187/b5674d03-f977-4975-9d32-a9036c
 
 ## Acknowledgements 🙏
 We would like to extend our heartfelt thanks to all individuals who contributed to the recruitment of participants for this study. Their efforts were critical to the success of our survey. In particular, we would like to express our deepest appreciation to Viktor Krivogornitsyn for his extraordinary dedication in attracting a substantial number of Sakha speakers. His contribution was invaluable, and we are grateful for his support.
+
+## Citation 🎓
+We kindly request that if you utilise our model in your work, you consider citing our paper to acknowledge its contribution. Citing the appropriate sources helps promote academic integrity and ensures that credit is given to the original authors. By acknowledging our paper in your research, you contribute to the ongoing development and advancement of the scientific community. We appreciate your support and recognition of our efforts.
+
+```bibtex
+@inproceedings{turkic_tts,
+  title={Multilingual Text-to-Speech Synthesis for Turkic Languages Using Transliteration},
+  author={Yeshpanov, Rustem and Mussakhojayeva, Saida and Khassanov, Yerbolat},
+  journal={},
+  year={2023}
+}
+```
