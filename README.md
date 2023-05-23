@@ -51,6 +51,22 @@ Thank you for your time and consideration.
 ▫️ <a href="https://nukz.qualtrics.com/jfe/form/SV_01BJgR96UMZ3fOm"><b>Uzbek</b></a>
   </p>
 
+## Evaluation results
+<p align = "justify">The survey statistics for rater number (R), gender (F & M), and age ( < 45 & 45+) and the evaluation results of the overall quality (Q), comprehensibility (C), and intelligibility (I) of synthesised speech.</p>
+
+| Language | R | F | M | < 45 | 45+ | Q | C | I |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| Azerbaijani | 47 | 22 | 25 | 22 | 25 | 2.93 | 90% | 52% |
+| Bashkir | 11 | 8 | 3 | 4 | 7 | 2.67 | 92% | 47% |
+| Kazakh | 151 | 89 | 62 | 120 | 31 | 4.18 | 97% | 80% |
+| Kyrgyz | 14 | 12 | 2 | 6 | 8 | 3.54 | 86% | 43% |
+| Sakha | 254 | 155 | 99 | 147 | 107 | 2.85 | 93% | 15% |
+| Tatar | 15 | 12 | 3 | 3 | 12 | 2.82 | 79% | 17% |
+| Turkish | 18 | 6 | 12 | 15 | 3 | 3.25 | 91% | 61% |
+| Turkmen | 6 | 0 | 6 | 6 | 0 | 2.37 | 67% | 57% |
+| Uyghur | 10 | 6 | 4 | 6 | 4 | 3.01 | 45% | 26% |
+| Uzbek | 22 | 2 | 20 | 19 | 3 | 2.85 | 80% | 45% |
+| **Total** | **548** | **312** | **236** | **348** | **200** | **3.25** | **92%** | **41%** |
 
 ## Pretrained models ⚙️
 Unzip both the pre-trained vocoder and the acoustic model in the current directory.
@@ -145,11 +161,11 @@ https://github.com/IS2AI/TurkicTTS/assets/6375187/4bb36e22-768e-41fd-a9c5-24ff6d
 
 ---
 
-**Turkmen**
+**Tatar**
 
-    Türkmenistan merkezi Aziýada bir döwletdir.
+    Татарстан территориясе — урманлы җирдә яткан тигезлек.
 
-https://github.com/IS2AI/TurkicTTS/assets/6375187/57a70217-c618-4caf-8038-0d5668e840f8
+https://github.com/IS2AI/TurkicTTS/assets/6375187/331fa695-bc85-4afb-bccd-43ad22c9cc33
 
 ---
 
@@ -161,11 +177,11 @@ https://github.com/IS2AI/TurkicTTS/assets/6375187/527430a1-f8f3-472c-8b32-3540e4
 
 ---
 
-**Tatar**
+**Turkmen**
 
-    Татарстан территориясе — урманлы җирдә яткан тигезлек.
+    Türkmenistan merkezi Aziýada bir döwletdir.
 
-https://github.com/IS2AI/TurkicTTS/assets/6375187/331fa695-bc85-4afb-bccd-43ad22c9cc33
+https://github.com/IS2AI/TurkicTTS/assets/6375187/57a70217-c618-4caf-8038-0d5668e840f8
 
 ---
 
