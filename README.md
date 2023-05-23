@@ -186,10 +186,10 @@ https://github.com/IS2AI/TurkicTTS/assets/6375187/6695091e-4fdd-4ed4-b785-289e34
 https://github.com/IS2AI/TurkicTTS/assets/6375187/b5674d03-f977-4975-9d32-a9036c791b2d
 
 ## Acknowledgements 🙏
-We would like to extend our heartfelt thanks to all individuals who contributed to the recruitment of participants for this study. Their efforts were critical to the success of our survey. In particular, we would like to express our deepest appreciation to Viktor Krivogornitsyn for his extraordinary dedication in attracting a substantial number of Sakha speakers. His contribution was invaluable, and we are grateful for his support.
+<p align = "justify">We would like to extend our heartfelt thanks to all individuals who contributed to the recruitment of participants for this study. Their efforts were critical to the success of our survey. In particular, we would like to express our deepest appreciation to Viktor Krivogornitsyn for his extraordinary dedication in attracting a substantial number of Sakha speakers. His contribution was invaluable, and we are grateful for his support.</p>
 
 ## Citation 🎓
-We kindly request that if you utilise our model in your work, you consider citing our paper to acknowledge its contribution. Citing the appropriate sources helps promote academic integrity and ensures that credit is given to the original authors. By acknowledging our paper in your research, you contribute to the ongoing development and advancement of the scientific community. We appreciate your support and recognition of our efforts.
+<p align = "justify">We kindly request that if you utilise our model in your work, you consider citing our paper to acknowledge its contribution. Citing the appropriate sources helps promote academic integrity and ensures that credit is given to the original authors. By acknowledging our paper in your research, you contribute to the ongoing development and advancement of the scientific community. We appreciate your support and recognition of our efforts.</p>
 
 ```bibtex
 @inproceedings{turkic_tts,
