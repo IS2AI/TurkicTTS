@@ -2,7 +2,6 @@
 
 This repository provides the demo and the pre-trained models for the paper [Multilingual Text-to-Speech Synthesis for Turkic Languages Using Transliteration](link-once-published).
 
-
 ## Dataset 🗃️
 Our study became feasible thanks to a large-scale and open-source speech corpus called 🇰🇿 [KazakhTTS2](https://github.com/IS2AI/Kazakh_TTS).
 
