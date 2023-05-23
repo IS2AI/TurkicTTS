@@ -6,11 +6,13 @@
          alt="GitHub stars">
   </a>
   <a href="https://github.com/IS2AI/TurkicTTS/issues">
-        <img src="https://img.shields.io/github/issues/IS2AI/TurkicTTS.svg"
-             alt="GitHub issues">
+    <img src="https://img.shields.io/github/issues/IS2AI/TurkicTTS.svg"
+         alt="GitHub issues">
   </a>
-  <br>
-  <a href="https://issai.nu.edu.kz"><img src="https://img.shields.io/static/v1?label=ISSAI&amp;message=official site&amp;color=blue&amp" alt="ISSAI Official Website"></a> 
+  <a href="https://issai.nu.edu.kz">
+    <img src="https://img.shields.io/static/v1?label=ISSAI&amp;message=official site&amp;color=blue&amp"
+         alt="ISSAI Official Website">
+  </a> 
 </p>
 
 <p align = "center">This repository provides a demo and a pre-trained model for the paper <br><b>Multilingual Text-to-Speech Synthesis for Turkic Languages Using Transliteration</b></p>
