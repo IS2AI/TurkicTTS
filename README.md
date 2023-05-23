@@ -105,7 +105,7 @@ text2speech = Text2Speech(
     use_att_constraint=True,
     backward_window=1,
     forward_window=3,
-    ### Only for FastSpeech & FastSpeech2
+    ### only for FastSpeech & FastSpeech2
     speed_control_alpha=1.0,
 )
 text2speech.spc2wav = None  ### disable griffin-lim
