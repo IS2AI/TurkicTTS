@@ -35,8 +35,19 @@ You will be asked to
 
 Thank you for your time and consideration.
 
-[Azerbaijani](https://nukz.qualtrics.com/jfe/form/SV_bNu5RvcsYMKkU8m) | [Bashkir](https://nukz.qualtrics.com/jfe/form/SV_cvl3H1U8EbFM4Tk) | [Kazakh](https://nukz.qualtrics.com/jfe/form/SV_3WelDTOVyKK5iom) | [Kyrgyz](https://nukz.qualtrics.com/jfe/form/SV_cAT00TOsCNKsSZE) | [Sakha](https://nukz.qualtrics.com/jfe/form/SV_2awH2YEoL5V7biC) | [Tatar](https://nukz.qualtrics.com/jfe/form/SV_0dEAXvcHxAiEYxo) | [Turkish](https://nukz.qualtrics.com/jfe/form/SV_cItR7tzYRRjlkYC) | [Turkmen](https://nukz.qualtrics.com/jfe/form/SV_cVgQk4lgS17HBgW) | [Uyghur](https://nukz.qualtrics.com/jfe/form/SV_ezZO1jNowvrAdds) | [Uzbek](https://nukz.qualtrics.com/jfe/form/SV_01BJgR96UMZ3fOm)
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+<p align = "center">
+<a href="https://nukz.qualtrics.com/jfe/form/SV_bNu5RvcsYMKkU8m"><b>Azerbaijani</b></a>
+▫️ <a href="https://nukz.qualtrics.com/jfe/form/SV_cvl3H1U8EbFM4Tk"><b>Bashkir</b></a>
+▫️ <a href="https://nukz.qualtrics.com/jfe/form/SV_3WelDTOVyKK5iom"><b>Kazakh</b></a>
+▫️ <a href="https://nukz.qualtrics.com/jfe/form/SV_cAT00TOsCNKsSZE"><b>Kyrgyz</b></a>
+▫️ <a href="https://nukz.qualtrics.com/jfe/form/SV_2awH2YEoL5V7biC"><b>Sakha</b></a>
+▫️ <a href="https://nukz.qualtrics.com/jfe/form/SV_0dEAXvcHxAiEYxo"><b>Tatar</b></a>
+▫️ <a href="https://nukz.qualtrics.com/jfe/form/SV_cItR7tzYRRjlkYC"><b>Turkish</b></a>
+▫️ <a href="https://nukz.qualtrics.com/jfe/form/SV_cVgQk4lgS17HBgW"><b>Turkmen</b></a>
+▫️ <a href="https://nukz.qualtrics.com/jfe/form/SV_ezZO1jNowvrAdds"><b>Uyghur</b></a>
+▫️ <a href="https://nukz.qualtrics.com/jfe/form/SV_01BJgR96UMZ3fOm"><b>Uzbek</b></a>
+  </p>
+
 
 ## Pretrained models ⚙️
 Unzip both the pre-trained vocoder and the acoustic model in the current directory.
