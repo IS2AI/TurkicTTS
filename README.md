@@ -181,3 +181,6 @@ https://github.com/IS2AI/TurkicTTS/assets/6375187/6695091e-4fdd-4ed4-b785-289e34
     Oʻzbekiston — Markaziy Osiyoning markaziy qismida joylashgan mamlakat.
 
 https://github.com/IS2AI/TurkicTTS/assets/6375187/b5674d03-f977-4975-9d32-a9036c791b2d
+
+## Acknowledgements 🙏
+We would like to extend our heartfelt thanks to all individuals who contributed to the recruitment of participants for this study. Their efforts were critical to the success of our survey. In particular, we would like to express our deepest appreciation to Viktor Krivogornitsyn for his extraordinary dedication in attracting a substantial number of Sakha speakers. His contribution was invaluable, and we are grateful for his support.
