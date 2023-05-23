@@ -1,7 +1,5 @@
 <h1 align="center">TurkicTTS <br> ⌨️ 🗣 </h1>
 
-https://dropovercl.s3.amazonaws.com/92ace3e6-4e4e-49ad-82fa-9f1aeb323879/73c31748-1780-4862-b028-7c744be805bb/7921d16e-ee4c-43b4-a081-7020dabe9937.m4a
-
 <p align="center">
   <a href="https://github.com/IS2AI/TurkicTTS/stargazers">
     <img src="https://img.shields.io/github/stars/IS2AI/TurkicTTS.svg?colorA=orange&colorB=orange&logo=github"
