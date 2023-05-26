@@ -15,7 +15,7 @@
   </a> 
 </p>
 
-<p align = "center">This repository provides a demo and a pre-trained model for the paper <br><b>Multilingual Text-to-Speech Synthesis for Turkic Languages Using Transliteration</b></p>
+<p align = "center">This repository provides a demo and a pre-trained model for the paper <br><a href = "https://arxiv.org/abs/2305.15749"><b>Multilingual Text-to-Speech Synthesis for Turkic Languages Using Transliteration</b></a></p>
 
 ## Languages 💬
 <p align = "justify">The model supports ten <a href="https://en.wikipedia.org/wiki/Turkic_languages">Turkic languages</a>, including <a href="https://en.wikipedia.org/wiki/Azerbaijani_language">Azerbaijani</a>, <a href="https://en.wikipedia.org/wiki/Bashkir_language">Bashkir</a>, <a href="https://en.wikipedia.org/wiki/Kazakh_language">Kazakh</a>, <a href="https://en.wikipedia.org/wiki/Kyrgyz_language">Kyrgyz</a>, <a href="https://en.wikipedia.org/wiki/Yakut_language">Sakha</a>, <a href="https://en.wikipedia.org/wiki/Tatar_language">Tatar</a>, <a href="https://en.wikipedia.org/wiki/Turkish_language">Turkish</a>, <a href="https://en.wikipedia.org/wiki/Turkmen_language">Turkmen</a>, <a href="https://en.wikipedia.org/wiki/Uyghur_language">Uyghur</a>, and <a href="https://en.wikipedia.org/wiki/Uzbek_language">Uzbek</a>. Spoken across a wide geographical area stretching from the Balkans through Central Asia to northeastern Siberia, these languages share a wide range of common linguistic features, such as vowel harmony, extensive agglutination, subject-object-verb order, and the absence of grammatical gender and articles.</p>
