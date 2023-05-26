@@ -208,10 +208,12 @@ https://github.com/IS2AI/TurkicTTS/assets/6375187/b5674d03-f977-4975-9d32-a9036c
 <p align = "justify">We kindly request that if you utilise our model in your work, you consider citing our paper to acknowledge its contribution. Citing the appropriate sources helps promote academic integrity and ensures that credit is given to the original authors. By acknowledging our paper in your research, you contribute to the ongoing development and advancement of the scientific community. We appreciate your support and recognition of our efforts.</p>
 
 ```bibtex
-@inproceedings{turkic_tts,
-  title={Multilingual Text-to-Speech Synthesis for Turkic Languages Using Transliteration},
-  author={Yeshpanov, Rustem and Mussakhojayeva, Saida and Khassanov, Yerbolat},
-  journal={},
-  year={2023}
+@misc{yeshpanov2023multilingual,
+      title={Multilingual Text-to-Speech Synthesis for Turkic Languages Using Transliteration}, 
+      author={Rustem Yeshpanov and Saida Mussakhojayeva and Yerbolat Khassanov},
+      year={2023},
+      eprint={2305.15749},
+      archivePrefix={arXiv},
+      primaryClass={eess.AS}
 }
 ```
