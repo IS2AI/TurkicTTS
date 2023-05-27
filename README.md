@@ -30,7 +30,8 @@
 ## Surveys 🎧 → 😡☹️😐🙂😀 → ✅ → ⌨️
 <p align = "justify">Below are the links to the ten questionnaires used in the study to collect subjective evaluations. These questionnaires were distributed on popular social media platforms operating in the Turkic languages. If you are interested, feel free to check them out. Your participation and input are greatly appreciated in helping us gather valuable data for our research. Your insights will contribute to a deeper understanding of the subject matter under investigation.</p> 
 
-Each questionnaire consists of 20 short questions and should take you about 5 minutes. No background knowledge is required.
+<p align = "justify">Each questionnaire consists of 20 short questions and should take you about 5 minutes. No background knowledge is required.</p>
+
 You will be asked to
 - listen to 10 audio recordings and rate their quality,
 - listen to 5 short questions and choose answers,
